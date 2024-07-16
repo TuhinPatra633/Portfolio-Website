@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Mental Health Prediction",
+    "desc": "Mental Health Prediction Using Machine Learning: Assessing the Impact of Imbalance Handling Techniques",
+    "image": "mental_health",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Career Prediction",
+    "desc": "The career prediction using machine learning, which aims to provide accurate career recommendations using machine learning algorithms.",
+    "image": "career",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Career-Prediction-Using-Machine-Learning",
+      "code": "https://github.com/TuhinPatra633/Career-Prediction-Using-Machine-Learning"
+    }
+  },
+  {
+    "name": "Zomato Delivery Time Prediction",
+    "desc": "This project aims to predict delivery time on Zomato using a distributed computing approach with Sparkling Water",
+    "image": "zomato_sparkling",
+    "category": "distributedcomputing",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Sparkling-Water-Delivery-Time-Prediction",
+      "code": "https://github.com/TuhinPatra633/Sparkling-Water-Delivery-Time-Prediction"
+    }
+  },
+  {
+    "name": "EDA On Indian IPOs",
+    "desc": "This project analyze various aspects of Indian IPOs from 2010 to 2023.",
+    "image": "ipo_banner",
+    "category": "dataanalysis",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Exploratory-Data-Analysis-On-Indian-IPOs",
+      "code": "https://github.com/TuhinPatra633/Exploratory-Data-Analysis-On-Indian-IPOs"
+    }
+  },
+  {
+    "name": "River Non-river Classification",
+    "desc": "This project contains river non-river classification of satellite data using Bayes decision rule",
+    "image": "satelite",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/River-non-river-classification-of-satellite-data-using-Bayes-decision-rule",
+      "code": "https://github.com/TuhinPatra633/River-non-river-classification-of-satellite-data-using-Bayes-decision-rule"
+    }
+  },
+  {
+    "name": "Handwritten Digit Classification",
+    "desc": "In this project, I aim to classify digits ranging from 0 to 9 using the MNIST dataset by KNN",
+    "image": "handwritten",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Mnist-Handwritten-Digit-Classification-Using-KNN-from-scratch",
+      "code": "https://github.com/TuhinPatra633/Mnist-Handwritten-Digit-Classification-Using-KNN-from-scratch"
+    }
+  },
+  {
+    "name": "K-means Clustering On Satellite Data",
+    "desc": "In this project, we implement the k-Means clustering algorithm from scratch to group data points into clusters.",
+    "image": "k_means",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/k-means-clustering-on-satellite-image-data",
+      "code": "https://github.com/TuhinPatra633/k-means-clustering-on-satellite-image-data"
+    }
+  },
+  {
+    "name": "Perceptron Algorithm From Scratch",
+    "desc": "In this project, we implement the Perceptron algorithm from scratch to perform binary classification tasks.",
+    "image": "perceptron",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Perceptron-algorithm-from-scratch",
+      "code": "https://github.com/TuhinPatra633/Perceptron-algorithm-from-scratch"
+    }
+  },
+  {
+    "name": "MDS From Scratch",
+    "desc": "In this project, we implement the Multi-Dimensional Scaling (MDS) algorithm from scratch to visualize high-dimensional data in a lower-dimensional space.",
+    "image": "mds",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/Multi-Dimensional-Scaling-on-MNIST-data",
+      "code": "https://github.com/TuhinPatra633/Multi-Dimensional-Scaling-on-MNIST-data"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. You're!",
+    "image": "portfolio_ss",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/TuhinPatra633/Portfolio-Website"
+    }
+  },
+  {
+    "name": "UEFA EURO 2024 Data Analysis",
+    "desc": "This project contains an data analysis on UEFA EURO 2024 data.",
+    "image": "euro",
+    "category": "dataanalysis",
+    "links": {
+      "view": "https://www.linkedin.com/posts/tuhin-patra-226651294_github-tuhinpatra633prodigyds01-uefa-activity-7212903565353181184-9kyK?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/TuhinPatra633/PRODIGY_DS_01"
+    }
+  },
+  {
+    "name": "Term Deposit Subscription Prediction",
+    "desc": "This project involves building a Decision Tree classifier to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data",
+    "image": "term",
+    "category": "ml",
+    "links": {
+      "view": "https://www.linkedin.com/posts/tuhin-patra-226651294_github-tuhinpatra633prodigyds03-decision-activity-7212906089426694144-tnz6?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/TuhinPatra633/PRODIGY_DS_03"
+    }
+  },
+  {
+    "name": "US Accident Data Analysis",
+    "desc": "This project involves an exploratory data analysis (EDA) on US accident data.",
+    "image": "us_accident",
+    "category": "dataanalysis",
+    "links": {
+      "view": "https://www.linkedin.com/posts/tuhin-patra-226651294_github-tuhinpatra633prodigyds05-activity-7212908128885985280-ORsF?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/TuhinPatra633/PRODIGY_DS_05"
+    }
+  }
+]

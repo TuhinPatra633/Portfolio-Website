@@ -1,0 +1,23 @@
+[
+    {
+      "title": "F1analyze Hackathon",
+      "description": "Certificate of perticipation in F1analyze Hackathon",
+      "image": "../assets/images/certificates/F1analyze_certificate.png"
+    },
+    {
+      "title": "Summer Internship at Prodigy Infotech",
+      "description": "Certificate of completion of summer internship at prodigy infotech",
+      "image": "../assets/images/certificates/prodigy_internship_cer.png"
+    },
+    {
+        "title": "Summer Internship at Prodigy Infotech",
+        "description": "Letter of Recommendation of summer internship at prodigy infotech",
+        "image": "../assets/images/certificates/prodigy_lor.png"
+    },
+    {
+        "title": "Python Course",
+        "description": "Certificate of completion of python course at udemy",
+        "image": "../assets/images/certificates/udemy_python.png"
+      }
+  ]
+  
