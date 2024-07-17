@@ -78,5 +78,9 @@
     {
         "name": "Data Visualization",
         "icon": "https://img.icons8.com/?size=100&id=O8A8jdUQZFf4&format=png&color=000000"
+    },
+    {
+        "name": "Apache Spark",
+        "icon": "https://icon.icepanel.io/Technology/svg/Apache-Spark.svg"
     }
 ]
