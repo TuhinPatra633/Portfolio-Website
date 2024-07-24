@@ -18,6 +18,21 @@
         "title": "Python Course",
         "description": "Certificate of completion of python course at udemy",
         "image": "../assets/images/certificates/udemy_python.png"
+      },
+      {
+        "title": "Innovate and Inspire",
+        "description": "Certificate of perticipation in Innovate and Inspire coding competition",
+        "image": "../assets/images/certificates/Innovate_inspire.jpg"
+      },
+      {
+        "title": "Gen AI Workshop",
+        "description": "Certificate of perticipation in Gen AI workshop",
+        "image": "../assets/images/certificates/Gen_AI_Workshop.jpg"
+      },
+      {
+        "title": "AI ML Quiz",
+        "description": "Certificate of perticipation in AI ML Quiz",
+        "image": "../assets/images/certificates/ai_ml_quiz.png"
       }
   ]
   
