@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "State Space Modeling",
+    "desc": "Exploring the Efficacy of State Space Models in Forecasting: A Comparative Study with ARIMA on Nifty Data",
+    "image": "nifty",
+    "category": "ts",
+    "links": {
+      "view": "https://github.com/TuhinPatra633/State-Space-Modeling/blob/main/Report.pdf",
+      "code": "https://github.com/TuhinPatra633/State-Space-Modeling"
+    }
+  },
+  {
     "name": "Career Prediction",
     "desc": "The career prediction using machine learning, which aims to provide accurate career recommendations using machine learning algorithms.",
     "image": "career",
